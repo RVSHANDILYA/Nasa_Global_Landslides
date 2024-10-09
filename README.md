@@ -1,4 +1,4 @@
-# Nasa_Global_Landslides
+# Nasa_Global_Landslides_Analysis
 Analyzing trends in rainfall-triggered landslides worldwide using Python. Leveraging pandas, numpy, and matplotlib for data visualization and statistical insights. Contributing to global understanding and mitigation of landslide risks
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Link to data set: https://data.nasa.gov/Earth-Science/Global-Landslide-Catalog-Export/dd9e-wu2v/data
